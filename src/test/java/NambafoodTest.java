@@ -23,5 +23,8 @@ public class NambafoodTest {
         $(By.xpath("//a[5]/div[2]/div[1]/div")).shouldHave(text("Product market SRT Group"));
         Selenide.sleep(2000);
 
+
+
+
     }
 }
